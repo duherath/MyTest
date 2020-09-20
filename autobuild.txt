@@ -1,0 +1,2 @@
+this is a test for auto build test in jenkins
+Have a nice day
